@@ -18,6 +18,12 @@ This chapter focuses on statistical experiments and hypothesis testing. Topics i
 ### Chapter 4 - Regression and Prediction
 This chapter explains regression for understanding relationships between variables and making predictions. It covers simple and multiple linear regression, model evaluation, categorical variables, regression diagnostics, and nonlinear methods such as polynomial regression and splines.
 
+### Chapter 5 - Classification
+This chapter covers methods for predicting categorical outcomes. It includes Naive Bayes, Linear Discriminant Analysis, Logistic Regression, classification evaluation metrics, ROC curves, AUC, and strategies for imbalanced data.
+
+### Chapter 6 - Statistical Machine Learning
+This chapter introduces machine learning methods such as K-Nearest Neighbors, Decision Trees, Random Forest, and Boosting. It also discusses standardization, feature importance, overfitting, regularization, and hyperparameter selection.
+
 ## Tools
 
 - Python
