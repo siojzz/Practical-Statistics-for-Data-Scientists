@@ -24,6 +24,9 @@ This chapter covers methods for predicting categorical outcomes. It includes Nai
 ### Chapter 6 - Statistical Machine Learning
 This chapter introduces machine learning methods such as K-Nearest Neighbors, Decision Trees, Random Forest, and Boosting. It also discusses standardization, feature importance, overfitting, regularization, and hyperparameter selection.
 
+### Chapter 7 - Unsupervised Learning
+This chapter introduces methods for discovering patterns in data without using a known target variable. It covers Principal Components Analysis, K-Means Clustering, Hierarchical Clustering, Model-Based Clustering, and the importance of scaling variables.
+
 ## Tools
 
 - Python
